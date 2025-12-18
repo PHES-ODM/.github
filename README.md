@@ -47,7 +47,9 @@ The structure is scalable as well to be only as complex as users need it
 to be, with much of the model existing optionally, but supporting all
 possible use-cases.
 
-## Artifacts List - See artifact list in asset list folder.
+## Artifacts List 
+
+See artifact list in asset list folder - [link here](https://github.com/PHES-ODM/.github/tree/main/Asset%20Lists%20%26%20Artifact%20Lists)
 
 ## Acknowledgements
 
