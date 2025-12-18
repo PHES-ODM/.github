@@ -1,8 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
 
 # <img src="img/ODM-logo.png" align="right" width="180"/> The Public Health Environmental Surveillance Open Data Model (PHES-ODM, or ODM)
 
