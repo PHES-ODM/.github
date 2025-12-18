@@ -52,55 +52,7 @@ The structure is scalable as well to be only as complex as users need it
 to be, with much of the model existing optionally, but supporting all
 possible use-cases.
 
-## Artifacts List - Communications & External-Facing
-
-### GitHub - model 
- - [Big-Life-Lab/PHES-ODM](https://github.com/Big-Life-Lab/PHES-ODM) 
- - [Big-Life-Lab/PHES-ODM-Doc](https://github.com/Big-Life-Lab/PHES-ODM-Doc) 
-
-### GitHub - software
- - [Big-Life-Lab/PHES-ODM-Validation](https://github.com/Big-Life-Lab/PHES-ODM-Validation)
- - [Big-Life-Lab/PHES-ODM-Validation-Web](https://github.com/Big-Life-Lab/PHES-ODM-Validation-Web) (Private)
- - [Big-Life-Lab/PHES-ODM-sharing](https://github.com/Big-Life-Lab/PHES-ODM-sharing)
- - [Big-Life-Lab/PHES-ODM-Mapper](https://github.com/Big-Life-Lab/PHES-ODM-Mapper)
- - [Big-Life-Lab/PHES-ODM-LinkMLGenerator](https://github.com/Big-Life-Lab/PHES-ODM-LinkMLGenerator)
- - [Big-Life-Lab/PHES-ODM-MapGenerator](https://github.com/Big-Life-Lab/PHES-ODM-MapGenerator) (Private)
- - [martinwellman/phes-odm-conductor](https://github.com/martinwellman/phes-odm-conductor) (Private)
- - [qpcr-analyzer]() 
- 
-### GitHub - supporting infrastructure
- - [PHES-ODM/.github](https://github.com/PHES-ODM/.github)
- - [Big-Life-Lab/release-automation-testing](https://github.com/Big-Life-Lab/release-automation-testing)
- 
-### Websites:
- - [Offical Website](https://www.phes-odm.org)
- - [Lucid Chart ERD](https://lucid.app/lucidchart/847978df-d627-4b8a-a379-faca7a517ef4/edit?viewport_loc=-2932%2C-2689%2C13808%2C8809%2CztJGI_4dY9KX&invitationId=inv_0de7777b-888b-4d8a-827d-2306bdc48cce)
- - [Discourse Page](https://odm.discourse.group)
- - [OADP website](https://oadp.phes-odm.org)
- - [Documentation Website](https://docs.phes-odm.org)
- – maybe other libraries’documentation sites?
- - [Vimeo videos](https://vimeo.com/projectbiglife)
- - [OSF Repository](https://osf.io/49z2b/)
- - [Zenodo Repository](https://zenodo.org/records/10794558) (not named, but I own it still for some reason – maybe delete??)
- - [Panacea Network Presentation Video - SPA](https://www.youtube.com/watch?v=tBLe8J2jGWU)
- - [Panacea Network Presentation Video - ENG](https://www.youtube.com/watch?v=QE8wNO3S0-4&t=1439s)
- - (To-do: ---separate out presentations ------)
-
-### Publications:
- - [PHES-ODM Introductory Publication in Water Science & Technology](https://iwaponline.com/wst/article/89/1/1/99450/A-comprehensive-open-source-data-model-for)
- - Email address: [phesd_odm\@ohri.ca](mailto:phesd_odm@ohri.ca){.email}
- 
-## Artifacts List - Files 
- -	linkMl schema + config files/mapping sheets(?)/modules/directories
- -	csv files
- -	templates
- -	ERD pdfs
- -	Documentation files
- -	SQL database structure
- -	Design materials, logo, icon library
- -	Governance documentation
- -	TORs
-*Consider dependencies, but separately. Major ones are LinkML, Excel, LucidChart, and LinkML schemasheets*
+## Artifacts List - See artifact list in asset list folder.
 
 ## Acknowledgements
 
@@ -116,5 +68,5 @@ between researchers from multiple institutions:
 -   CentrEau - Centre québécois de recherche sur la gestion de l'eau
 -   Public Health Agency Canada
 -   Ministry of Environment, Conservation, and Parks - MECP Ontario
--   European Union DG Joint Research Centre
+-   European Comission Joint Research Centre
 -   The Ottawa Hospital Research Institute
