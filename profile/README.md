@@ -32,6 +32,16 @@ model. Repositories for the tools can be found here, and include a
 validator, a sharing tool, a mapping tool, and a pipeline to transform
 PCR outputs directly into ODM.
 
+## Maintenance Phase for the PHES-ODM (September, 2026)
+
+With shifting global priorities and as a research-grant-funded initiative, the PHES-ODM is officially ***shifting from a development phase, and entering a long-term maintenance phase***. 
+
+The structure of the model is strong, expandable, modular, and adaptable to diverse programs and needs in a variety of settings. These aspects of the model, along with the existing guidance and documentation are going to be maintained. As part of the maintenance phase, there will be less person-hours devoted to the project and so responsiveness to Discourse posts and direct contact may be slowed and limited, but will also still be maintained. To support this transition, our team has developed a number of AI skills and a model context protocol, to support automating guidance and assistance with the model.
+
+This comes with a ***streamlining in the expansion and development pipeline for the PHES-ODM***. Rather than using an excel spreadsheet to host, develop, and trial the model, and then publishing that file and its sheets as CSVs, ***additions and edits to the model will be managed directly [through GitHub commits](https://github.com/PHES-ODM/PHES-ODM/issues) to the CSV files***. These will mostly be funneled through Issues and Pull Requests, with the project administrator using AI to help ensure all files are updated and kept in sync for incremental version updates. Occasional updates may not include added “parts”, but may simply reflect organizational streamlines in the structure of the model, as the model schema is self-referential.
+
+The PHES-ODM remains one of the few open source data models, and continues to act as one of the de facto global wastewater and environmental surveillance data standards. This new phase in the project will continue the tremendous work done so far in partnership with our communities, just at a slower and more sustainable pace. We look forward to continuing to engage with and support our broader wastewater community in this new phase. 
+
 ## Documentation and Citations
 
 For the complete documentation for the model, please consult the [documentation website](https://docs.phes-odm.org). To cite the model, or read more scholarly accounts of its contruction and structure, please consult the paper published for version 2 of the model:
